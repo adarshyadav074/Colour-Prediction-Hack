@@ -126,7 +126,7 @@ HTML_PAGE = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ADARSH VIP HACK</title>
+    <title>RNG BASED PREDICTOR</title>
     <meta http-equiv="refresh" content="2">
     <style>
         body { 
